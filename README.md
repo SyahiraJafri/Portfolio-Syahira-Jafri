@@ -1,6 +1,7 @@
 # Portfolio Syahira Jafri
-Analytics Portfolio
+Data Analytics Portfolio
 
-# [Project 1: Example of Dashboard](https://github.com/SyahiraJafri/Example-Dashboard)
-
-This is a trial version of portfolio
+- **Tools:** Power BI, SQL, Python  
+- **Objective:** Analyzed sales trends to identify top-performing products and regions.  
+- **Key Insights:** Sales increased by 15% after adjusting pricing strategy.  
+- [View Dashboard](link_here)
